@@ -6,7 +6,7 @@
 | 4 | [Mislove Has Lost an Array](https://codeforces.com/problemset/problem/1204/B) | 1000 | Solved |
 | 5 | [3-palindrome](https://codeforces.com/problemset/problem/805/B) | 1000 | Solved |
 | 6 | [Ania and Minimizing](https://codeforces.com/problemset/problem/1230/B) | 1000 | Solved |
-| 7 | [Timofey and cubes](https://codeforces.com/problemset/problem/764/B) | 1000 |  |
+| 7 | [Timofey and cubes](https://codeforces.com/problemset/problem/764/B) | 1000 | Solved |
 | 8 | [Fafa and the Gates](https://codeforces.com/problemset/problem/935/B) | 1000 |  |
 | 9 | [Buying a TV Set](https://codeforces.com/problemset/problem/1041/B) | 1100 |  |
 | 10 | [Badges](https://codeforces.com/problemset/problem/1214/B) | 1100 |  |
