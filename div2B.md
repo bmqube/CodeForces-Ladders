@@ -4,7 +4,7 @@
 | 2 | [Decoding](https://codeforces.com/problemset/problem/746/B) | 900 | Solved |
 | 3 | [Watering System](https://codeforces.com/problemset/problem/967/B) | 1000 | Solved |
 | 4 | [Mislove Has Lost an Array](https://codeforces.com/problemset/problem/1204/B) | 1000 | Solved |
-| 5 | [3-palindrome](https://codeforces.com/problemset/problem/805/B) | 1000 |  |
+| 5 | [3-palindrome](https://codeforces.com/problemset/problem/805/B) | 1000 | Solved |
 | 6 | [Ania and Minimizing](https://codeforces.com/problemset/problem/1230/B) | 1000 |  |
 | 7 | [Timofey and cubes](https://codeforces.com/problemset/problem/764/B) | 1000 |  |
 | 8 | [Fafa and the Gates](https://codeforces.com/problemset/problem/935/B) | 1000 |  |
