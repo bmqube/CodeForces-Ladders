@@ -1,8 +1,8 @@
 | Index | Problem | Difficulty | Solved |
 | --- | --- | --- | --- |
-| 1 | [Lunar New Year and Number Division](https://codeforces.com/problemset/problem/1106/C) | 1000 |  |
-| 2 | [Bad Sequence](https://codeforces.com/problemset/problem/1214/C) | 1200 |  |
-| 3 | [Bracket Subsequence](https://codeforces.com/problemset/problem/1023/C) | 1200 |  |
+| 1 | [Lunar New Year and Number Division](https://codeforces.com/problemset/problem/1106/C) | 1000 | Solved |
+| 2 | [Bad Sequence](https://codeforces.com/problemset/problem/1214/C) | 1200 | Solved |
+| 3 | [Bracket Subsequence](https://codeforces.com/problemset/problem/1023/C) | 1200 | Solved |
 | 4 | [Dishonest Sellers](https://codeforces.com/problemset/problem/779/C) | 1200 |  |
 | 5 | [Birthday](https://codeforces.com/problemset/problem/1131/C) | 1200 |  |
 | 6 | [Dividing the numbers](https://codeforces.com/problemset/problem/899/C) | 1300 |  |
